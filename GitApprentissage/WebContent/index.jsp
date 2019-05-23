@@ -17,6 +17,11 @@ System.out.println("Qu'est ce que ça donne?");%>
 <p> j'essaie un 2ème commit et push>"</p>
 <p> 3ème commit</p>
 <p>4ème commit </p>
+<<<<<<< HEAD
 <p>On refait une ligne différente</p>
+=======
+<p>Essai d'envoi à Github</p>
+<p>Changement sur la partie du master</p>
+>>>>>>> refs/heads/master
 </body>
 </html>

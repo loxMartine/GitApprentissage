@@ -22,5 +22,7 @@ System.out.println("Qu'est ce que ça donne?");%>
 <% 
 System.out.println("Autre essai recupCommit");
 System.out.println("Qu'est ce que ça donne?");%>
+
+<p>essai sur le recupCommit3</p>
 </body>
 </html>

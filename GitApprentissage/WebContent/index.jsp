@@ -18,7 +18,13 @@ System.out.println("Qu'est ce que ça donne?");%>
 <p> 3ème commit</p>
 <p>4ème commit </p>
 <p>Je suis dans le recup Commit3 </p>
-
+<<<<<<< HEAD
+<p>On refait une ligne différente</p>
+=======
+<p>Essai d'envoi à Github</p>
+<p>Changement sur la partie du master</p>
+>>>>>>> refs/heads/master
+<p>Dans mon dev alors qu'il y a encore le merge branch 'master' into devGit</p>
 <% 
 System.out.println("Autre essai recupCommit");
 System.out.println("Qu'est ce que ça donne?");%>

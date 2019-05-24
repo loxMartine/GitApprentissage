@@ -13,24 +13,6 @@
 <% 
 System.out.println("Version 2");
 System.out.println("Qu'est ce que ça donne?");%>
-<p> modifie en sur cette 5ème commut une partie du 1er</p>
-<p> j'essaie un 2ème commit et push>"</p>
-<p> 3ème commit</p>
-<p>4ème commit </p>
-<p>Je suis dans le recup Commit3 </p>
-<<<<<<< HEAD
-<p>On refait une ligne différente</p>
-=======
-<p>Essai d'envoi à Github</p>
-<p>Changement sur la partie du master</p>
->>>>>>> refs/heads/master
-<p>Dans mon dev alors qu'il y a encore le merge branch 'master' into devGit</p>
-<% 
-System.out.println("Autre essai recupCommit");
-System.out.println("Qu'est ce que ça donne?");%>
-
-<p>master</p>
-
-<p>essai sur le recupCommit3</p>
+<p>Je clean tout</p>
 </body>
 </html>

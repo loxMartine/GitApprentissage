@@ -28,5 +28,6 @@ System.out.println("Qu'est ce que ça donne?");%>
 <% 
 System.out.println("Autre essai recupCommit");
 System.out.println("Qu'est ce que ça donne?");%>
+<p>devGit</p>
 </body>
 </html>

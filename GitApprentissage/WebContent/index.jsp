@@ -23,5 +23,6 @@ System.out.println("Qu'est ce que ça donne?");%>
 <p>Essai d'envoi à Github</p>
 <p>Changement sur la partie du master</p>
 >>>>>>> refs/heads/master
+<p>Dans mon dev alors qu'il y a encore le merge branch 'master' into devGit</p>
 </body>
 </html>

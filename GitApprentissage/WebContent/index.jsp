@@ -13,7 +13,11 @@
 <% 
 System.out.println("Version 2");
 System.out.println("Qu'est ce que ça donne?");%>
+<<<<<<< HEAD
 <p>JE sui en dev</p>
+=======
+<p>JE suis en master </p>
+>>>>>>> refs/heads/master
 <button>ajout</button>
 <p>je rajoute une ligne</p>
 </html>

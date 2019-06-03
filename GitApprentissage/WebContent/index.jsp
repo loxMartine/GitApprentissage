@@ -13,6 +13,7 @@
 <% 
 System.out.println("Version 2");
 System.out.println("Qu'est ce que ça donne?");%>
-<p>JE clean tout</p>
+<p>JE sui en dev</p>
 <button>ajout</button>
+<p>je rajoute une ligne</p>
 </html>

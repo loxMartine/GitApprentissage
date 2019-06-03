@@ -14,7 +14,8 @@
 System.out.println("Version 2");
 System.out.println("Qu'est ce que ça donne?");%>
 
-<p>JE sui en dev</p>
+<p>JE suis en dev recommit et remerge</p>
 <button>ajout</button>
 <p>je rajoute une ligne</p>
+<p>Je fais un 2ème essai</p>
 </html>

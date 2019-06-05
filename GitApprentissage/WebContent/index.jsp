@@ -17,8 +17,9 @@ System.out.println("Qu'est ce que ça donne?");%>
 <p>JE suis en dev recommit et remerge</p>
 <button>ajout</button>
 <p>je rajoute une ligne</p>
+<h1>Une Ligne entre plusieurs</h1>
 
-<p>Rajoute une ligne sur le dev</p>
+<p>Rajoute une ligne</p>
 <button>Here</button>
-<p>aprèsq bouton</p>
+<p>après bouton</p>
 </html>

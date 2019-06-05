@@ -18,5 +18,9 @@ System.out.println("Qu'est ce que ça donne?");%>
 <button>ajout</button>
 <p>je rajoute une ligne</p>
 <p>Je fais un 2ème essai</p>
+<<<<<<< HEAD
+=======
+<p>Rajoute une ligne sur le dev</p>
+>>>>>>> refs/heads/devGit
 
 </html>

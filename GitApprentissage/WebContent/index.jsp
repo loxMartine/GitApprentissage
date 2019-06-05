@@ -18,5 +18,13 @@ System.out.println("Qu'est ce que ça donne?");%>
 <button>ajout</button>
 <p>je rajoute une ligne</p>
 <p>Je fais un 2ème essai</p>
+<<<<<<< HEAD
 
+=======
+<p> Essai d'envoi sur GitHub</p>
+<p> Envoi 2 Gitub</p>
+<p> je fais un 3ème envoi Github</p>
+<p>change</p>
+<p>journal</p>
+>>>>>>> refs/heads/master
 </html>

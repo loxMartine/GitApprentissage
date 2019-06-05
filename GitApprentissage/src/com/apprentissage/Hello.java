@@ -26,6 +26,7 @@ public class Hello extends HttpServlet {
 		PrintWriter out= response.getWriter();
 		out.println("<HTML><BODY>");
 		out.println("<H4>Hello World</H4>");
+		out.println("<p>Un rajout dans hello.java</p>");
 		out.println("</BODY></TML>");
 
 	}
